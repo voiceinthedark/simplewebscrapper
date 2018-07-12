@@ -1,2 +1,2 @@
-# simplewebscrapper
-simple web scrapper in java using jsoup library
+# simplewebscraper
+simple web scraper in java using jsoup library
